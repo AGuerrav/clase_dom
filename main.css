@@ -1,0 +1,61 @@
+body{
+	text-align: center;
+}
+
+.imagen{
+
+	border:1px solid #92988E;
+	padding: 20px;
+
+}
+
+#boton{
+	background: #1DA1F2;
+	color: #fff;
+	border:none;
+	padding: 5px 6px;
+	display: block;
+	margin-left: 650px;
+}
+
+.container2{
+
+}
+#cont {
+	margin-left: 1em;
+	text-align: left;
+}
+
+#cont div {
+	padding: 1em 0.5em;
+	margin-bottom: 2em;
+	outline: 0.1em solid #E5E3F2;
+	background-color: #fff;
+
+}
+
+.heart, .trash{
+	margin: 1em;
+	float: right;
+}
+
+.trash:hover {
+	color: #1DA1F2;
+	cursor:pointer;
+}
+
+.red{
+	color: #FC1E26;
+	cursor: pointer;
+}
+
+p {
+	display: inline-block;
+	margin-left: 0.5em;
+}
+
+.strike-out{
+	text-decoration: line-through;
+	color: #1DA1F2;
+}
+
